@@ -1,0 +1,13 @@
+extraction of emotions from voice (machine learning and speech recognition)
+
+ so it will consist of the voice notes from user and accordance to it we can abke to detect what kind of mood is of a user and can be helpfull in many cases like in voice 
+virtual voice assistant
+
+Text summarisation using natural language processing
+
+MCQ Question generator 
+we will give some text as input then our system will see for whole text and will create mcq from that text 
+
+Search in video
+so finding some context such that from video. find and extract audio from video then make text from that audio and then break the text in segments of words and in context of word our application will provide the answers
+
